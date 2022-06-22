@@ -1,0 +1,73 @@
+Query: de
+Algorithm: LSH
+Approximate Nearest neighbour: cat
+True Nearest neighbour: cat
+distanceApproximate: 661.293
+distanceTrue: 661.293
+
+Query: dgx
+Algorithm: LSH
+Approximate Nearest neighbour: afl
+True Nearest neighbour: afl
+distanceApproximate: 677.795
+distanceTrue: 677.795
+
+Query: dhr
+Algorithm: LSH
+Approximate Nearest neighbour: cvs
+True Nearest neighbour: cvs
+distanceApproximate: 504.056
+distanceTrue: 504.056
+
+Query: dis
+Algorithm: LSH
+Approximate Nearest neighbour: cvs
+True Nearest neighbour: cvs
+distanceApproximate: 551.111
+distanceTrue: 551.111
+
+Query: dish
+Algorithm: LSH
+Approximate Nearest neighbour: aep
+True Nearest neighbour: ash
+distanceApproximate: 549.927
+distanceTrue: 513.416
+
+Query: dltr
+Algorithm: LSH
+Approximate Nearest neighbour: abc
+True Nearest neighbour: abc
+distanceApproximate: 664.421
+distanceTrue: 664.421
+
+Query: dlx
+Algorithm: LSH
+Approximate Nearest neighbour: adi
+True Nearest neighbour: adi
+distanceApproximate: 455.664
+distanceTrue: 455.664
+
+Query: dov
+Algorithm: LSH
+Approximate Nearest neighbour: d
+True Nearest neighbour: d
+distanceApproximate: 408.953
+distanceTrue: 408.953
+
+Query: dri
+Algorithm: LSH
+Approximate Nearest neighbour: ash
+True Nearest neighbour: aep
+distanceApproximate: 491.773
+distanceTrue: 413.285
+
+Query: dte
+Algorithm: LSH
+Approximate Nearest neighbour: d
+True Nearest neighbour: adp
+distanceApproximate: 599.799
+distanceTrue: 267.642
+
+tApproximateAverage: 0.00308222
+tTrueAverage: 0.000814556
+MAF: 2.24105

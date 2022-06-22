@@ -1,0 +1,73 @@
+Query: de
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: cost
+True Nearest neighbour: col
+distanceApproximate: 45.91
+distanceTrue: 13.8538
+
+Query: dgx
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: cr
+True Nearest neighbour: chkp
+distanceApproximate: 24.09
+distanceTrue: 11.4459
+
+Query: dhr
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: ctxs
+True Nearest neighbour: adi
+distanceApproximate: 15.1064
+distanceTrue: 12.987
+
+Query: dis
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: cr
+True Nearest neighbour: adp
+distanceApproximate: 32.15
+distanceTrue: 13.8485
+
+Query: dish
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: an
+True Nearest neighbour: cop
+distanceApproximate: 18.8141
+distanceTrue: 13.3447
+
+Query: dltr
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: ctxs
+True Nearest neighbour: ctxs
+distanceApproximate: 13.6641
+distanceTrue: 13.6641
+
+Query: dlx
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: bk
+True Nearest neighbour: cinf
+distanceApproximate: 20.498
+distanceTrue: 11.4727
+
+Query: dov
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: chrw
+True Nearest neighbour: ctxs
+distanceApproximate: 15.79
+distanceTrue: 13.3085
+
+Query: dri
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: cr
+True Nearest neighbour: cr
+distanceApproximate: 9.91168
+distanceTrue: 9.91168
+
+Query: dte
+Algorithm: Frechet with Metric: Continuous
+Approximate Nearest neighbour: cat
+True Nearest neighbour: adp
+distanceApproximate: 26.3927
+distanceTrue: 9.7539
+
+tApproximateAverage: 73.1818
+tTrueAverage: 479.119
+MAF: 3.3139
